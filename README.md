@@ -3,7 +3,7 @@
 
 Creating a starter kit for react to get the react setup up and running in no time.
 
-Setup 1 : Creating a webpack project based using yarn. 
+# Setup 1 : Creating a webpack project based using yarn. 
 
 * Install node on your machine
 * Install yarn (yarn is used in place of npm)
@@ -13,7 +13,7 @@ Setup 1 : Creating a webpack project based using yarn.
 * To start app `yarn start`
 
 
-Setup 2 : Creating a webpack project based on nodejs. 
+# Setup 2 : Creating a webpack project based on nodejs. 
 ## This starter kit gives you the following:
 
 - React, React Router, and Flux for ultra-responsive UI development  
@@ -38,6 +38,8 @@ Setup 2 : Creating a webpack project based on nodejs.
 5. `gulp` - Builds the project and opens your browser. Check [here if you have issues](https://github.com/coryhouse/react-flux-starter-kit#having-issues-try-this).
 6. Navigate to [http://localhost:9005/](http://localhost:9005/) if your browser doesn't open automatically.
 
+# Setup 3 : Use the existing npm package.
+Just use the existing npm package from facebook `npm i create-react-app`
 
 
 
