@@ -39,7 +39,9 @@ Creating a starter kit for react to get the react setup up and running in no tim
 6. Navigate to [http://localhost:9005/](http://localhost:9005/) if your browser doesn't open automatically.
 
 # Setup 3 : Use the existing npm package.
-Just use the existing npm package from facebook `npm i create-react-app -g`
+* use the existing npm package from facebook `npm i create-react-app -g`  
+* use `create-react-app <app-name>` to create new project with `app-name`  
+
 
 
 
